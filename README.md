@@ -71,5 +71,16 @@ This means you're using Lottie via SPM instead of as a binary framework. To reso
 
 ## License
 
-UdentifyFACE is proprietary software. All rights reserved.
+UdentifyFACE is proprietary software. Copyright © 2026 Fraud.com International Ltd. All rights reserved. See the [LICENSE](LICENSE) file for more info.
+
+## 🙏 Third-Party Licenses
+
+This project uses the following third-party libraries:
+
+### Lottie for iOS
+- **License:** Apache License 2.0
+- **Repository:** [https://github.com/airbnb/lottie-spm](https://github.com/airbnb/lottie-spm)
+- **Copyright:** Copyright 2018 Airbnb, Inc.
+
+For complete third-party license information, see [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
 

@@ -82,5 +82,5 @@ This project uses the following third-party libraries:
 - **Repository:** [https://github.com/airbnb/lottie-spm](https://github.com/airbnb/lottie-spm)
 - **Copyright:** Copyright 2018 Airbnb, Inc.
 
-For complete third-party license information, see [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
+For complete third-party license information, please refer to the respective repositories.
 

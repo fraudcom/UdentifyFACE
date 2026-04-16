@@ -8,7 +8,7 @@ UdentifyFACE is a SDK for iOS applications that provides face detection and veri
 
 ## Requirements
 - iOS 13.0+
-- Xcode 16.2+
+- Xcode 26.1.1
 - Swift 5+
 
 ## Installation

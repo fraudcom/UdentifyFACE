@@ -18,8 +18,8 @@ let package = Package(
      targets: [
          .binaryTarget(
              name: "UdentifyFACE",
-             url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/397611973.zip",
-             checksum: "7d162fb9a9d26990c6f887abd76d56e42061f9cc687782cabd45c68c0cdbcf9f"
+             url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/397880893.zip",
+             checksum: "2783e02aea8badb079348140898e3cc01141c138008929cd03766db96875d898"
          )
      ]
  )
